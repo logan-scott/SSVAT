@@ -18,7 +18,6 @@ import logging
 # Uncomment to enable debug logging
 logging.basicConfig(level=logging.DEBUG)
 
-#API_KEY = "e128553a-ba26-4bec-b3b6-3d0f0fdb4746"
 CVE_URL = "https://services.nvd.nist.gov/rest/json/cves/2.0"
 
 # HTTP GET request to fetch CVEs from NIST NVD
